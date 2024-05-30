@@ -1,0 +1,52 @@
+body{
+    background-color:white
+}
+
+p{
+    color:brown;
+}
+form{
+    border: 1px solid red;
+    display: block;
+
+}
+
+
+.war{
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid black;
+}
+
+#input_id{
+border: 2px solid green;
+border-radius: 50px;
+}
+
+.form_cls p{
+    background-color: aqua;
+    display: inline-block;
+    color:brown;
+    font-weight: bolder;
+}
+
+article > p{
+    background-color: red;
+    width:150px;
+    height:40px;
+    
+}
+
+
+label{
+    display: inline-block;
+}
+article{
+    font-weight: bolder;
+}
+a:link{
+    color:blue;
+}
+
+a:visited{
+    color:green;
+}
